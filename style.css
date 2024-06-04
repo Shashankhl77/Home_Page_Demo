@@ -1,0 +1,92 @@
+/* * {
+  font-family: ;
+} */
+.home {
+  margin-top: 100px;
+}
+.home img {
+  height: 500px;
+}
+
+.home h2 {
+  margin-top: 100px;
+  margin-bottom: 39px;
+}
+.home h1 {
+  margin-top: 39px;
+  margin-bottom: 39px;
+}
+.home p {
+  margin-bottom: 39px;
+}
+.head {
+  margin: 25px;
+  text-align: center;
+}
+.home2 {
+  display: flex;
+}
+.home2 img {
+  height: 500px;
+}
+.btn {
+  background-color: #fc3647;
+  color: white;
+}
+.color {
+  color: #fc3647;
+}
+.h :hover {
+  background-color: #fc3647;
+}
+.a {
+  text-align: center;
+}
+.box {
+  width: 320px;
+  height: 160px;
+  background-color: #f6f6f6;
+}
+.box:hover {
+  background-color: #fc3647;
+  color: white;
+}
+.project-section {
+  display: flex;
+  align-items: center;
+  padding: 50px;
+}
+.project-image {
+  max-width: 100%;
+  border-radius: 10px;
+}
+.project-content {
+  padding: 20px;
+}
+.project-item {
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.content {
+  text-align: center;
+}
+.content h2 {
+  margin: 20px;
+}
+footer {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40px;
+  height: 35px;
+}
+.family {
+  font-family: normal normal bold 60px/80px Cormorant SC;
+  font: weight 200px;
+}
